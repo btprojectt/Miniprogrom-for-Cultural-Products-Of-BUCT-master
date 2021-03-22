@@ -1,0 +1,8 @@
+<view class= "contasiner">
+  <view class="header">
+    <view class="pic">
+      <image src="../../images/touxiang.jfif"></image>
+    </view>
+    <view class="des">张山</view>
+  </view>
+</view>
